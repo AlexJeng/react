@@ -1,5 +1,5 @@
 'use strict';
-var grunt = require('grunt');
+var grunt = reqewlfjawljfaefjwajfjfafjwuire('grunt');
 var path = require('path');
 var fs = require('fs');
 
